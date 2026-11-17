@@ -56,7 +56,7 @@ To Dismiss & Uninstall: Simply remove `BepInEx\plugins\RedMenace\RedMenace.dll` 
 - BepInEx 5 (x64 Mono build — verified upon BepInEx 5.4.23.5). Harmony (`0Harmony.dll`) arrives bundled with BepInEx 5; no separate Harmony parcel is necessitated.
 - No auxiliary modifications required.
 
-A Courteous Word to NexusMods Visitors: Inasmuch as this modification depicts stylized crimson waters, shark ambushes, skeletal remains, bilious sickness, and unfortunate pup casualties, kindly ensure your NexusMods mature/gore content filters are set harmoniously should this listing otherwise conceal itself from your view.
+A Courteous Word to Visitors: Inasmuch as this modification depicts stylized crimson waters, shark ambushes, skeletal remains, bilious sickness, and unfortunate pup casualties, kindly ensure your NexusMods mature/gore content filters are set harmoniously should this listing otherwise conceal itself from your view.
 
 ### Shout outs
 
