@@ -1,7 +1,5 @@
-================================================================================
-  PIRANHA TIME 2: THE REVENGE (v1.2 — THE GRAND VICTORIAN EDITION)
-  A BepInEx 5 Treatise on Wilderness Peril & Chaos for Family Time Episode 4
-================================================================================
+PIRANHA TIME 2: THE REVENGE (v1.2 — THE GRAND VICTORIAN EDITION)
+A BepInEx 5 Treatise on Wilderness Peril & Chaos for Family Time Episode 4
 
 Dear Reader,
 
